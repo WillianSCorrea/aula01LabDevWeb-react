@@ -46,13 +46,3 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-    translate: 0px 0px ;
-  }
-  to {
-    transform: rotate(360deg);
-    translate: 1000px 0px ;
-  }
-}
